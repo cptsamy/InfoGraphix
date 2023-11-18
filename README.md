@@ -1,0 +1,2 @@
+# InfoGraphix
+Data Visualization Infographic
